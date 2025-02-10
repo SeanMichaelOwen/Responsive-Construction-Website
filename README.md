@@ -20,7 +20,7 @@ Tonton video tutorial dan demo proyek ini di YouTube:
    ```
 2. **Buka folder proyek**
    ```bash
-   cd nama-folder
+   cd Responsive-Construction-Website
    ```
 3. **Buka file `index.html` di browser**
 
